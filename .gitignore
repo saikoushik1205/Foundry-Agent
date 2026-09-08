@@ -1,0 +1,9 @@
+.env
+*.env
+local.settings.json
+__pycache__/
+*.pyc
+.python_packages/
+.venv/
+venv/
+.vscode/
